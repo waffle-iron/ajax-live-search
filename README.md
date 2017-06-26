@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/GuBeLa/ajax-live-search.png?label=ready&title=Ready)](https://waffle.io/GuBeLa/ajax-live-search?utm_source=badge)
 # [AJAX Live Search](http://ajaxlivesearch.com)
 
 AJAX Live Search is a jQuery plugin / PHP search form that searches and displays the result as you type similar to Google Autocomplete feature.
